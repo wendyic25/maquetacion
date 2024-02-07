@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(197, 172, 221);
+}
+
+
+.imagen{
+    width: 22%;
+    height: 22%;
+    margin-left: 15%;
+    margin-top: 7%;
+}
+.principal{
+    
+    margin-left: 40%;
+    margin-top: -200px;
+}
+.informacion{
+    margin-left: 40%;
+}
+.educacion{
+margin-left: 20%;
+margin-top: -17vh;
+}
+.experiencia{
+    margin-left: 40%;
+    margin-top: -20vh;
+}
+ .experiencia h2{
+    background-color: blueviolet;
+}
